@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aman-raj25
+- 👋 Hi, I’m Aman Raj
 - 👨🏻‍🎓 I'm a Third year CSE undergrad at Kalinga Institute of Industrial Technology (KIIT).
 - 👀 I'm familiarwith DSA and AI.
 - 🌱 I’m currently learning web development.
