@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Raj
 - 👨🏻‍🎓 I'm a Third year CSE undergrad at Kalinga Institute of Industrial Technology (KIIT).
-- 👀 I'm familiarwith DSA and AI.
-- 🌱 I’m currently learning web development.
+- 👀 I'm familiar with DSA.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on any project related to AI
 - ☎️ Let's connect at : www.linkedin.com/in/aman-raj-a74229286/
 - 🦉 Proficient in English and Hindi languages
