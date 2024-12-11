@@ -3,7 +3,7 @@
 - 👀 I'm familiar with DSA.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on any project related to AI
-- ☎️ Let's connect at : linkedin.com/in/amanraj25  
+- ☎️ Let's connect at : linkedin.com/in/aman-raj25  
 - 🦉 Proficient in English and Hindi languages
 - ✌️ Thank you for visiting my github profile.
 
